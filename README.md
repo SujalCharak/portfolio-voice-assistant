@@ -38,7 +38,7 @@ PRI Voice Agent — modular voice assistant with intent-based skill routing; fla
 ---
 
 ## Demo / Presentation
-- Project deck: `docs/Portfolio-PRI.pdf`
+- Project deck: docs/Portfolio-PRI.pdf
 
 ---
 
